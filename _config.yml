@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: Iris
+title: Iris-청소년 성소수자 연구모임
 
 # [수정필요] 간단한 사이트 설명
 description: 청소년 성소수자 연구모임
@@ -12,10 +12,10 @@ author: Hyunji Yi
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
-  Home: "career"
-  프로젝트: "publication"
-  연구진: "blog"
-  자료실: "https://github.com/seokho-son"
+  소개: "introduction"
+  프로젝트: "project"
+  연구진: "team"
+  자료실: "publication"
   
 
 
